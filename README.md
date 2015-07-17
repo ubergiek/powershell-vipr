@@ -1,2 +1,2 @@
-# powershell-vipr
-PowerShell ViPR REST
+# Random Codings
+PowerShell, Python, misc
